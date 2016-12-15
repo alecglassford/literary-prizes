@@ -1,0 +1,22 @@
+table {
+    border: 0px;
+}
+
+td {
+    width: 10px;
+    height: 10px;
+    font-size: 10px;
+    line-height: 10px;
+}
+
+.pulitzer {
+    background-color: #7fc97f;
+}
+
+.both {
+    background-color: #beaed4;
+}
+
+.nba {
+    background-color: #fdc086;
+}
