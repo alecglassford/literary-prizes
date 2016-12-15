@@ -16,12 +16,12 @@ year,category,prize,outcome,author,title
 1988,fiction,nba,winner,Pete Dexter,Paris Trout
 1988,fiction,nba,finalist,Don DeLillo,Libra
 1988,fiction,nba,finalist,Mary McGarry Morris,Vanished
-1988,fiction,nba,finalist,James F. Powers,Wheat That Springeth
-1988,fiction,nba,finalist,Green Anne Tyler,Breathing Lessons
+1988,fiction,nba,finalist,James F. Powers,Wheat That Springeth Green
+1988,fiction,nba,finalist,Anne Tyler,Breathing Lessons
 1989,fiction,nba,winner,John Casey,Spartina
 1989,fiction,nba,finalist,E.L. Doctorow,Billy Bathgate
 1989,fiction,nba,finalist,Katherine Dunn,Geek Love
-1989,fiction,nba,finalist,Oscar Hijuelos,Mambo Kings Play Songs of Love
+1989,fiction,nba,finalist,Oscar Hijuelos,The Mambo Kings Play Songs of Love
 1989,fiction,nba,finalist,Amy Tan,The Joy Luck Club
 1990,fiction,nba,winner,Charles Johnson,Middle Passage
 1990,fiction,nba,finalist,Felipe Alfau,Chromos
@@ -45,7 +45,7 @@ year,category,prize,outcome,author,title
 1992,fiction,nba,finalist,Robert Stone,Outerbridge Reach
 1992,poetry,nba,winner,Mary Oliver,New and Selected Poems
 1992,poetry,nba,finalist,Hayden Carruth,Collected Shorter Poems
-1992,poetry,nba,finalist,Louise Gluck,The Wild Iris
+1992,poetry,nba,finalist,Louise Glück,The Wild Iris
 1992,poetry,nba,finalist,Susan Mitchell,Rapture
 1992,poetry,nba,finalist,Gary Snyder,No Nature
 1993,fiction,nba,winner,E. Annie Proulx,The Shipping News
@@ -197,7 +197,7 @@ year,category,prize,outcome,author,title
 2007,poetry,nba,finalist,Linda Gregerson,Magnetic North
 2007,poetry,nba,finalist,David Kirby,The House on Boulevard St.
 2007,poetry,nba,finalist,Stanley Plumly,Old Heart
-2007,poetry,nba,finalist,Ellen Bryant Voigt,Messenger: New and Selected Poems 1976-2006
+2007,poetry,nba,finalist,Ellen Bryant Voigt,"Messenger: New and Selected Poems, 1976-2006"
 2008,fiction,nba,winner,Peter Matthiessen,Shadow Country
 2008,fiction,nba,finalist,Aleksandar Hemon,The Lazarus Project
 2008,fiction,nba,finalist,Rachel Kushner,Telex from Cuba

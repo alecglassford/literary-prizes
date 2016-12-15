@@ -1,6 +1,103 @@
 year,category,prize,outcome,author,title
+2006,fiction,pulitzer,finalist,Alice McDermott,After This
+2006,fiction,pulitzer,finalist,Richard Powers,The Echo Maker
+1984,fiction,pulitzer,finalist,Diana O'Hehir,I Wish This War Were Over
+1984,fiction,pulitzer,finalist,Douglas Unger,Leaving the Land
+1985,fiction,pulitzer,finalist,Russell Banks,Continental Drift
+1985,fiction,pulitzer,finalist,Anne Tyler,The Accidental Tourist
+1986,fiction,pulitzer,finalist,Donald Barthelme,Paradise
+1986,fiction,pulitzer,finalist,Norman Rush,Whites
+1987,fiction,pulitzer,finalist,Diane Johnson,Persian Nights
+1987,fiction,pulitzer,finalist,Alice McDermott,That Night
+1988,fiction,pulitzer,finalist,Raymond Carver,Where I'm Calling From
+1989,fiction,pulitzer,finalist,E.L. Doctorow,Billy Bathgate
+1990,fiction,pulitzer,finalist,Linda Hogan,Mean Spirit
+1990,fiction,pulitzer,finalist,Tim O'Brien,The Things They Carried
+1991,fiction,pulitzer,finalist,Don DeLillo,Mao II
+1991,fiction,pulitzer,finalist,David Gates,Jernigan
+1991,fiction,pulitzer,finalist,Robert M. Pirsig,Lila: An Inquiry into Morals
+1992,fiction,pulitzer,finalist,Alice McDermott,At Weddings and Wakes
+1992,fiction,pulitzer,finalist,Joyce Carol Oates,Black Water
+1993,fiction,pulitzer,finalist,Reynolds Price,The Collected Stories
+1993,fiction,pulitzer,finalist,Philip Roth,Operation Shylock: A Confession
+1994,fiction,pulitzer,finalist,Joyce Carol Oates,What I Lived For
+1994,fiction,pulitzer,finalist,Grace Paley,The Collected Stories
+1995,fiction,pulitzer,finalist,Oscar Hijuelos,Mr. Ives' Christmas
+1995,fiction,pulitzer,finalist,Philip Roth,Sabbath's Theater
+1996,fiction,pulitzer,finalist,Ursula K. LeGuin,Unlocking the Air and Other Stories
+1996,fiction,pulitzer,finalist,Joanna Scott,The Manikin
+1997,fiction,pulitzer,finalist,Don DeLillo,Underworld
+1997,fiction,pulitzer,finalist,Robert Stone,Bear and His Daughter: Stories
+1998,fiction,pulitzer,finalist,Russell Banks,Cloudsplitter
+1998,fiction,pulitzer,finalist,Barbara Kingsolver,The Poisonwood Bible
+1999,fiction,pulitzer,finalist,Annie Proulx,Close Range: Wyoming Stories
+1999,fiction,pulitzer,finalist,Ha Jin,Waiting
+2000,fiction,pulitzer,finalist,Joyce Carol Oates,Blonde
+2000,fiction,pulitzer,finalist,Joy Williams,The Quick and the Dead
+2001,fiction,pulitzer,finalist,Jonathan Franzen,The Corrections
+2001,fiction,pulitzer,finalist,Colson Whitehead,John Henry Days
+2002,fiction,pulitzer,finalist,Andrea Barrett,Servants of the Map: Stories
+2002,fiction,pulitzer,finalist,Adam Haslett,You Are Not a Stranger Here
+2003,fiction,pulitzer,finalist,Susan Choi,American Woman
+2003,fiction,pulitzer,finalist,Marianne Wiggins,Evidence of Things Unseen: A Novel
+2004,fiction,pulitzer,finalist,Ha Jin,War Trash
+2004,fiction,pulitzer,finalist,Ward Just,An Unfinished Season
+2005,fiction,pulitzer,finalist,E.L. Doctorow,The March
+2005,fiction,pulitzer,finalist,Lee Martin,The Bright Forever
+2007,fiction,pulitzer,finalist,Denis Johnson,Tree of Smoke
+2007,fiction,pulitzer,finalist,Lore Segal,Shakespeare's Kitchen
+2008,fiction,pulitzer,finalist,Louise Erdrich,The Plague of Doves
+2008,fiction,pulitzer,finalist,Christine Schutt,All Souls
+2009,fiction,pulitzer,finalist,Lydia Millet,Love in Infant Monkeys
+2009,fiction,pulitzer,finalist,Daniyal Mueenuddin,"In Other Rooms, Other Wonders"
+2010,fiction,pulitzer,finalist,Jonathan Dee,The Privileges
+2010,fiction,pulitzer,finalist,Chang-rae Lee,The Surrendered
+2011,fiction,pulitzer,finalist,Denis Johnson,Train Dreams
+2011,fiction,pulitzer,finalist,Karen Russell,Swamplandia!
+2011,fiction,pulitzer,finalist,David Foster Wallace,The Pale King
+2012,fiction,pulitzer,finalist,Nathan Englander,What We Talk About When We Talk About Anne Frank
+2012,fiction,pulitzer,finalist,Eowyn Ivey,The Snow Child
+2013,fiction,pulitzer,finalist,Philipp Meyer,The Son
+2013,fiction,pulitzer,finalist,Bob Shacochis,The Woman Who Lost Her Soul
+2014,fiction,pulitzer,finalist,Richard Ford,Let Me Be Frank With You
+2014,fiction,pulitzer,finalist,Laila Lalami,The Moor's Account
+2014,fiction,pulitzer,finalist,Joyce Carol Oates,"Lovely, Dark, Deep"
+2015,fiction,pulitzer,finalist,Kelly Link,Get in Trouble: Stories
+2015,fiction,pulitzer,finalist,Margaret Verble,Maud's Line
+2015,fiction,pulitzer,winner,Viet Thanh Nguyen,The Sympathizer
+2014,fiction,pulitzer,winner,Anthony Doerr,All the Light We Cannot See
+2013,fiction,pulitzer,winner,Donna Tartt,The Goldfinch
+2012,fiction,pulitzer,winner,Adam Johnson,The Orphan Master's Son
+2011,fiction,pulitzer,winner,No award,No award
+2010,fiction,pulitzer,winner,Jennifer Egan,A Visit from the Goon Squad
+2009,fiction,pulitzer,winner,Paul Harding,Tinkers
+2008,fiction,pulitzer,winner,Elizabeth Strout,Olive Kitteridge
+2007,fiction,pulitzer,winner,Junot Diaz,The Brief Wondrous Life of Oscar Wao
+2006,fiction,pulitzer,winner,Cormac McCarthy,The Road
+2005,fiction,pulitzer,winner,Geraldine Brooks,March
+2004,fiction,pulitzer,winner,Marilynne Robinson,Gilead
+2003,fiction,pulitzer,winner,Edward P. Jones,The Known World
+2002,fiction,pulitzer,winner,Jeffrey Eugenides,Middlesex
+2001,fiction,pulitzer,winner,Richard Russo,Empire Falls
+2000,fiction,pulitzer,winner,Michael Chabon,The Amazing Adventures of Kavalier & Clay
+1999,fiction,pulitzer,winner,Jhumpa Lahiri,Interpreter of Maladies
+1998,fiction,pulitzer,winner,Michael Cunningham,The Hours
+1997,fiction,pulitzer,winner,Philip Roth,American Pastoral
+1996,fiction,pulitzer,winner,Steven Millhauser,Martin Dressler: The Tale of an American Dreamer
+1995,fiction,pulitzer,winner,Richard Ford,Independence Day
+1994,fiction,pulitzer,winner,Carol Shields,The Stone Diaries
+1993,fiction,pulitzer,winner,E. Annie Proulx,The Shipping News
+1992,fiction,pulitzer,winner,Robert Olen Butler,A Good Scent from a Strange Mountain
+1991,fiction,pulitzer,winner,Jane Smiley,A Thousand Acres
+1990,fiction,pulitzer,winner,John Updike,Rabbit At Rest
+1989,fiction,pulitzer,winner,Oscar Hijuelos,The Mambo Kings Play Songs of Love
+1988,fiction,pulitzer,winner,Anne Tyler,Breathing Lessons
+1987,fiction,pulitzer,winner,Toni Morrison,Beloved
+1986,fiction,pulitzer,winner,Peter Taylor,A Summons to Memphis
+1985,fiction,pulitzer,winner,Larry McMurtry,Lonesome Dove
+1984,fiction,pulitzer,winner,Alison Lurie,Foreign Affairs
 1991,poetry,pulitzer,finalist,Robert Creeley,Selected Poems
-1991,poetry,pulitzer,finalist,Adrienne Rich,An Atlas of the Difficult World
+1991,poetry,pulitzer,finalist,Adrienne Rich,An Atlas of the Difficult World: Poems 1988-1991
 1992,poetry,pulitzer,finalist,John Ashbery,Hotel Lautreamont
 1992,poetry,pulitzer,finalist,James Merrill,Selected Poems 1946-1985
 1993,poetry,pulitzer,finalist,Brenda Hillman,Bright Existence
@@ -74,100 +171,3 @@ year,category,prize,outcome,author,title
 1993,poetry,pulitzer,winner,Yusef Komunyakaa,Neon Vernacular: New and Selected Poems
 1992,poetry,pulitzer,winner,Louise Glück,The Wild Iris
 1991,poetry,pulitzer,winner,James Tate,Selected Poems
-2006,fiction,pulitzer,finalist,Alice McDermott,After This
-2006,fiction,pulitzer,finalist,Richard Powers,The Echo Maker
-1984,fiction,pulitzer,finalist,Diana O'Hehir,I Wish This War Were Over
-1984,fiction,pulitzer,finalist,Douglas Unger,Leaving the Land
-1985,fiction,pulitzer,finalist,Russell Banks,Continental Drift
-1985,fiction,pulitzer,finalist,Anne Tyler,The Accidental Tourist
-1986,fiction,pulitzer,finalist,Donald Barthelme,Paradise
-1986,fiction,pulitzer,finalist,Norman Rush,Whites
-1987,fiction,pulitzer,finalist,Diane Johnson,Persian Nights
-1987,fiction,pulitzer,finalist,Alice McDermott,That Night
-1988,fiction,pulitzer,finalist,Raymond Carver,Where I'm Calling From
-1989,fiction,pulitzer,finalist,E.L. Doctorow,Billy Bathgate
-1990,fiction,pulitzer,finalist,Linda Hogan,Mean Spirit
-1990,fiction,pulitzer,finalist,Tim O'Brien,The Things They Carried
-1991,fiction,pulitzer,finalist,Don DeLillo,Mao II
-1991,fiction,pulitzer,finalist,David Gates,Jernigan
-1991,fiction,pulitzer,finalist,Robert M. Pirsig,Lila: An Inquiry into Morals
-1992,fiction,pulitzer,finalist,Alice McDermott,At Weddings and Wakes
-1992,fiction,pulitzer,finalist,Joyce Carol Oates,Black Water
-1993,fiction,pulitzer,finalist,Reynolds Price,The Collected Stories
-1993,fiction,pulitzer,finalist,Philip Roth,Operation Shylock: A Confession
-1994,fiction,pulitzer,finalist,Joyce Carol Oates,What I Lived For
-1994,fiction,pulitzer,finalist,Grace Paley,The Collected Stories
-1995,fiction,pulitzer,finalist,Oscar Hijuelos,Mr. Ives' Christmas
-1995,fiction,pulitzer,finalist,Philip Roth,Sabbath's Theater
-1996,fiction,pulitzer,finalist,Ursula K. LeGuin,Unlocking the Air and Other Stories
-1996,fiction,pulitzer,finalist,Joanna Scott,The Manikin
-1997,fiction,pulitzer,finalist,Don DeLillo,Underworld
-1997,fiction,pulitzer,finalist,Robert Stone,Bear and His Daughter: Stories
-1998,fiction,pulitzer,finalist,Russell Banks,Cloudsplitter
-1998,fiction,pulitzer,finalist,Barbara Kingsolver,The Poisonwood Bible
-1999,fiction,pulitzer,finalist,Annie Proulx,Close Range: Wyoming Stories
-1999,fiction,pulitzer,finalist,Ha Jin,Waiting
-2000,fiction,pulitzer,finalist,Joyce Carol Oates,Blonde
-2000,fiction,pulitzer,finalist,Joy Williams,The Quick and the Dead
-2001,fiction,pulitzer,finalist,Jonathan Franzen,The Corrections
-2001,fiction,pulitzer,finalist,Colson Whitehead,John Henry Days
-2002,fiction,pulitzer,finalist,Andrea Barrett,Servants of the Map: Stories
-2002,fiction,pulitzer,finalist,Adam Haslett,You Are Not a Stranger Here
-2003,fiction,pulitzer,finalist,Susan Choi,American Woman
-2003,fiction,pulitzer,finalist,Marianne Wiggins,Evidence of Things Unseen
-2004,fiction,pulitzer,finalist,Ha Jin,War Trash
-2004,fiction,pulitzer,finalist,Ward Just,An Unfinished Season
-2005,fiction,pulitzer,finalist,E.L. Doctorow,The March
-2005,fiction,pulitzer,finalist,Lee Martin,The Bright Forever
-2007,fiction,pulitzer,finalist,Denis Johnson,Tree of Smoke
-2007,fiction,pulitzer,finalist,Lore Segal,Shakespeare's Kitchen
-2008,fiction,pulitzer,finalist,Louise Erdrich,The Plague of Doves
-2008,fiction,pulitzer,finalist,Christine Schutt,All Souls
-2009,fiction,pulitzer,finalist,Lydia Millet,Love in Infant Monkeys
-2009,fiction,pulitzer,finalist,Daniyal Mueenuddin,"In Other Rooms, Other Wonders"
-2010,fiction,pulitzer,finalist,Jonathan Dee,The Privileges
-2010,fiction,pulitzer,finalist,Chang-rae Lee,The Surrendered
-2011,fiction,pulitzer,finalist,Denis Johnson,Train Dreams
-2011,fiction,pulitzer,finalist,Karen Russell,Swamplandia!
-2011,fiction,pulitzer,finalist,David Foster Wallace,The Pale King
-2012,fiction,pulitzer,finalist,Nathan Englander,What We Talk About When We Talk About Anne Frank
-2012,fiction,pulitzer,finalist,Eowyn Ivey,The Snow Child
-2013,fiction,pulitzer,finalist,Philipp Meyer,The Son
-2013,fiction,pulitzer,finalist,Bob Shacochis,The Woman Who Lost Her Soul
-2014,fiction,pulitzer,finalist,Richard Ford,Let Me Be Frank With You
-2014,fiction,pulitzer,finalist,Laila Lalami,The Moor's Account
-2014,fiction,pulitzer,finalist,Joyce Carol Oates,"Lovely, Dark, Deep"
-2015,fiction,pulitzer,finalist,Kelly Link,Get in Trouble: Stories
-2015,fiction,pulitzer,finalist,Margaret Verble,Maud's Line
-2015,fiction,pulitzer,winner,Viet Thanh Nguyen,The Sympathizer
-2014,fiction,pulitzer,winner,Anthony Doerr,All the Light We Cannot See
-2013,fiction,pulitzer,winner,Donna Tartt,The Goldfinch
-2012,fiction,pulitzer,winner,Adam Johnson,The Orphan Master's Son
-2011,fiction,pulitzer,winner,No award,No award
-2010,fiction,pulitzer,winner,Jennifer Egan,A Visit from the Goon Squad
-2009,fiction,pulitzer,winner,Paul Harding,Tinkers
-2008,fiction,pulitzer,winner,Elizabeth Strout,Olive Kitteridge
-2007,fiction,pulitzer,winner,Junot Diaz,The Brief Wondrous Life of Oscar Wao
-2006,fiction,pulitzer,winner,Cormac McCarthy,The Road
-2005,fiction,pulitzer,winner,Geraldine Brooks,March
-2004,fiction,pulitzer,winner,Marilynne Robinson,Gilead
-2003,fiction,pulitzer,winner,Edward P. Jones,The Known World
-2002,fiction,pulitzer,winner,Jeffrey Eugenides,Middlesex
-2001,fiction,pulitzer,winner,Richard Russo,Empire Falls
-2000,fiction,pulitzer,winner,Michael Chabon,The Amazing Adventures of Kavalier & Clay
-1999,fiction,pulitzer,winner,Jhumpa Lahiri,Interpreter of Maladies
-1998,fiction,pulitzer,winner,Michael Cunningham,The Hours
-1997,fiction,pulitzer,winner,Philip Roth,American Pastoral
-1996,fiction,pulitzer,winner,Steven Millhauser,Martin Dressler: The Tale of an American Dreamer
-1995,fiction,pulitzer,winner,Richard Ford,Independence Day
-1994,fiction,pulitzer,winner,Carol Shields,The Stone Diaries
-1993,fiction,pulitzer,winner,E. Annie Proulx,The Shipping News
-1992,fiction,pulitzer,winner,Robert Olen Butler,A Good Scent from a Strange Mountain
-1991,fiction,pulitzer,winner,Jane Smiley,A Thousand Acres
-1990,fiction,pulitzer,winner,John Updike,Rabbit At Rest
-1989,fiction,pulitzer,winner,Oscar Hijuelos,The Mambo Kings Play Songs of Love
-1988,fiction,pulitzer,winner,Anne Tyler,Breathing Lessons
-1987,fiction,pulitzer,winner,Toni Morrison,Beloved
-1986,fiction,pulitzer,winner,Peter Taylor,A Summons to Memphis
-1985,fiction,pulitzer,winner,Larry McMurtry,Lonesome Dove
-1984,fiction,pulitzer,winner,Alison Lurie,Foreign Affairs
