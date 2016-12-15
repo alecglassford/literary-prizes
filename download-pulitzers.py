@@ -44,6 +44,7 @@ def process (category, outcome):
         except:
             title = 'No award'
         year = 2120 - int(entry['field_year']['und'][0]['tid'])
+        year -= 1 # Since Pulitzers are for books published the prev year
         result.append([year, category, 'pulitzer', outcome, author, title])
     print('processed', category, outcome)
 
