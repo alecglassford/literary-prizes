@@ -1,0 +1,230 @@
+year,category,prize,outcome,author,title
+1984,fiction,nba,winner,Ellen Gilchrist,Victory over Japan: A Book of Stories
+1984,fiction,nba,finalist,Alison Lurie,Foreign Affairs
+1984,fiction,nba,finalist,Philip Roth,The Anatomy Lesson
+1985,fiction,nba,winner,Don DeLillo,White Noise
+1985,fiction,nba,finalist,Ursula K. Le Guin,Always Coming Home
+1985,fiction,nba,finalist,Hugh Nissenson,The Tree of Life
+1986,fiction,nba,winner,E.L. Doctorow,World's Fair
+1986,fiction,nba,finalist,Norman Rush,Whites
+1986,fiction,nba,finalist,Peter Taylor,A Summons to Memphis
+1987,fiction,nba,winner,Larry Heinemann,Paco's Story
+1987,fiction,nba,finalist,Alice McDermott,That Night
+1987,fiction,nba,finalist,Toni Morrison,Beloved
+1987,fiction,nba,finalist,Howard Norman,The Northern Lights
+1987,fiction,nba,finalist,Philip Roth,The Counterlife
+1988,fiction,nba,winner,Pete Dexter,Paris Trout
+1988,fiction,nba,finalist,Don DeLillo,Libra
+1988,fiction,nba,finalist,Mary McGarry Morris,Vanished
+1988,fiction,nba,finalist,James F. Powers,Wheat That Springeth
+1988,fiction,nba,finalist,Green Anne Tyler,Breathing Lessons
+1989,fiction,nba,winner,John Casey,Spartina
+1989,fiction,nba,finalist,E.L. Doctorow,Billy Bathgate
+1989,fiction,nba,finalist,Katherine Dunn,Geek Love
+1989,fiction,nba,finalist,Oscar Hijuelos,Mambo Kings Play Songs of Love
+1989,fiction,nba,finalist,Amy Tan,The Joy Luck Club
+1990,fiction,nba,winner,Charles Johnson,Middle Passage
+1990,fiction,nba,finalist,Felipe Alfau,Chromos
+1990,fiction,nba,finalist,Elena Castedo,Paradise
+1990,fiction,nba,finalist,Jessica Hagedorn,Dogeaters
+1990,fiction,nba,finalist,Joyce Carol Oates,"Because It Is Bitter, and Because It Is My Heart"
+1991,fiction,nba,winner,Norman Rush,Mating
+1991,fiction,nba,finalist,Louis Begley,Wartime Lies
+1991,fiction,nba,finalist,Stephen Dixon,Frog
+1991,fiction,nba,finalist,Stanley Elkin,The MacGuffin
+1991,fiction,nba,finalist,Sandra Scofield,Beyond Deserving
+1991,poetry,nba,winner,Philip Levine,What Work Is
+1991,poetry,nba,finalist,Andrew Hudgins,The Never-Ending
+1991,poetry,nba,finalist,Linda McCarriston,Eva-Mary
+1991,poetry,nba,finalist,Adrienne Rich,An Atlas of the Difficult World: Poems 1988-1991
+1991,poetry,nba,finalist,Marilyn Nelson Waniek,The Homeplace
+1992,fiction,nba,winner,Cormac McCarthy,All the Pretty Horses
+1992,fiction,nba,finalist,Dorothy Allison,Bastard out of Carolina
+1992,fiction,nba,finalist,Cristina Garcia,Dreaming in Cuban
+1992,fiction,nba,finalist,Edward P. Jones,Lost in the City
+1992,fiction,nba,finalist,Robert Stone,Outerbridge Reach
+1992,poetry,nba,winner,Mary Oliver,New and Selected Poems
+1992,poetry,nba,finalist,Hayden Carruth,Collected Shorter Poems
+1992,poetry,nba,finalist,Louise Gluck,The Wild Iris
+1992,poetry,nba,finalist,Susan Mitchell,Rapture
+1992,poetry,nba,finalist,Gary Snyder,No Nature
+1993,fiction,nba,winner,E. Annie Proulx,The Shipping News
+1993,fiction,nba,finalist,Amy Bloom,Come to Me
+1993,fiction,nba,finalist,Thom Jones,The Pugilist at Rest
+1993,fiction,nba,finalist,Richard Powers,Operation Wandering Soul
+1993,fiction,nba,finalist,Bob Shacochis,Swimming in the Volcano
+1993,poetry,nba,winner,A.R. Ammons,Garbage
+1993,poetry,nba,finalist,Mark Doty,My Alexandria
+1993,poetry,nba,finalist,Margaret Gibson,The Vigil: A Poem in Four Voices
+1993,poetry,nba,finalist,Donald Hall,The Museum of Clear Ideas
+1993,poetry,nba,finalist,Lawrence Raab,What We Don't Know About Each Other
+1994,fiction,nba,winner,William Gaddis,A Frolic of His Own
+1994,fiction,nba,finalist,Ellen Currie,Moses Supposes
+1994,fiction,nba,finalist,Richard Dooling,White Man's Grave
+1994,fiction,nba,finalist,Howard Norman,The Bird Artist
+1994,fiction,nba,finalist,Grace Paley,The Collected Stories
+1994,poetry,nba,winner,James Tate,A Worshipful Company of Fletchers
+1994,poetry,nba,finalist,Richard Howard,Like Most Revelations
+1994,poetry,nba,finalist,Heather McHugh,"Hinge and Sign: Poems, 1968-1993"
+1994,poetry,nba,finalist,Anne Porter,An Altogether Different Language
+1994,poetry,nba,finalist,David St. John,A Study for the World's Body
+1995,fiction,nba,winner,Philip Roth,Sabbath's Theater
+1995,fiction,nba,finalist,Madison Smartt Bell,All Souls' Rising
+1995,fiction,nba,finalist,Edwidge Danticat,Krik? Krak!
+1995,fiction,nba,finalist,Stephen Dixon,Interstate
+1995,fiction,nba,finalist,Rosario Ferrè,The House on the Lagoon
+1995,poetry,nba,winner,Stanley Kunitz,"Passing Through: The Later Poems, New and Selected"
+1995,poetry,nba,finalist,Barbara Howes,"Collected Poems, 1945-1990"
+1995,poetry,nba,finalist,Josephine Jacobsen,In the Crevice of Time: New and Collected Poems
+1995,poetry,nba,finalist,Donald Justice,New and Selected Poems
+1995,poetry,nba,finalist,Gary Soto,New and Selected Poems
+1996,fiction,nba,winner,Andrea Barrett,Ship Fever and Other Stories
+1996,fiction,nba,finalist,Ron Hansen,Atticus
+1996,fiction,nba,finalist,Elizabeth McCracken,The Giant's House
+1996,fiction,nba,finalist,Steven Millhauser,Martin Dressler: The Tale of an American Dreamer
+1996,fiction,nba,finalist,Janet Peery,The River Beyond the World
+1996,poetry,nba,winner,Hayden Carruth,"Scrambled Eggs and Whiskey, Poems 1991-1995"
+1996,poetry,nba,finalist,Lucille Clifton,The Terrible Stories
+1996,poetry,nba,finalist,Robert Hass,Sun Under Wood
+1996,poetry,nba,finalist,Alicia Suskin Ostriker,The Crack in Everything
+1996,poetry,nba,finalist,Charles Simic,Walking the Black Cat
+1997,fiction,nba,winner,Charles Frazier,Cold Mountain
+1997,fiction,nba,finalist,Don DeLillo,Underworld
+1997,fiction,nba,finalist,Diane Johnson,Le Divorce
+1997,fiction,nba,finalist,Ward Just,Echo House
+1997,fiction,nba,finalist,Cynthia Ozick,The Puttermesser Papers
+1997,poetry,nba,winner,William Meredith,Effort at Speech: New and Selected Poems
+1997,poetry,nba,finalist,John Balaban,Locusts at the Edge of Summer: New and Selected Poems
+1997,poetry,nba,finalist,Frank Bidart,Desire
+1997,poetry,nba,finalist,Sarah Lindsay,Primate Behavior
+1997,poetry,nba,finalist,Marilyn Nelson,The Fields of Praise: New and Selected Poems
+1998,fiction,nba,winner,Alice McDermott,Charming Billy
+1998,fiction,nba,finalist,Allegra Goodman,Kaaterskill Falls
+1998,fiction,nba,finalist,Gayl Jones,The Healing
+1998,fiction,nba,finalist,Robert Stone,Damascus Gate
+1998,fiction,nba,finalist,Tom Wolfe,A Man in Full
+1998,poetry,nba,winner,Gerald Stern,This Time: New and Selected Poems
+1998,poetry,nba,finalist,B.H. Fairchild,The Art of the Lathe
+1998,poetry,nba,finalist,Alicia Suskin Ostriker,"The Little Space: Poems Selected and New, 1968-1998"
+1998,poetry,nba,finalist,Linda Pastan,Carnival Evening: New and Selected Poems 1968-1998
+1998,poetry,nba,finalist,Carl Phillips,From the Devotions
+1999,fiction,nba,winner,Ha Jin,Waiting
+1999,fiction,nba,finalist,Andre Dubus III,House of Sand and Fog
+1999,fiction,nba,finalist,Kent Haruf,Plainsong
+1999,fiction,nba,finalist,Patricia Henley,Hummingbird House
+1999,fiction,nba,finalist,Jean Thompson,Who Do You Love
+1999,poetry,nba,winner,Ai,Vice: New and Selected Poems
+1999,poetry,nba,finalist,Louise Gluck,Vita Nova
+1999,poetry,nba,finalist,Clarence Major,"Configurations: New and Selected Poems, 1958-1998"
+1999,poetry,nba,finalist,Sherod Santos,The Pilot Star Elegies
+1999,poetry,nba,finalist,C.K. Williams,Repair
+2000,fiction,nba,winner,Susan Sontag,In America
+2000,fiction,nba,finalist,Charles Baxter,The Feast of Love
+2000,fiction,nba,finalist,Alan Lightman,The Diagnosis
+2000,fiction,nba,finalist,Joyce Carol Oates,Blonde
+2000,fiction,nba,finalist,Francine Prose,Blue Angel
+2000,poetry,nba,winner,Lucille Clifton,Blessing the Boats: New and Selected Poems 1988-2000
+2000,poetry,nba,finalist,Kim Addonizio,Tell Me
+2000,poetry,nba,finalist,Galway Kinnell,A New Selected Poems
+2000,poetry,nba,finalist,Kenneth Koch,New Addresses: Poems
+2000,poetry,nba,finalist,Bruce Smith,The Other Lover
+2001,fiction,nba,winner,Jonathan Franzen,The Corrections
+2001,fiction,nba,finalist,Dan Chaon,Among the Missing
+2001,fiction,nba,finalist,Jennifer Egan,Look at Me
+2001,fiction,nba,finalist,Louise Erdrich,The Last Report on the Miracle at Little No Horse
+2001,fiction,nba,finalist,Susan Straight,Highwire Moon
+2001,poetry,nba,winner,Alan Dugan,Poems Seven: New and Complete Poetry
+2001,poetry,nba,finalist,Agha Shahid Ali,Rooms are Never Finished
+2001,poetry,nba,finalist,Wanda Coleman,Mercurochrome
+2001,poetry,nba,finalist,Cornelius Eady,Brutal Imagination
+2001,poetry,nba,finalist,Gail Mazur,They Can't Take That Away from Me
+2002,fiction,nba,winner,Julia Glass,Three Junes
+2002,fiction,nba,finalist,Mark Costello,Big If
+2002,fiction,nba,finalist,Adam Haslett,You Are Not a Stranger Here
+2002,fiction,nba,finalist,Martha McPhee,Gorgeous Lies
+2002,fiction,nba,finalist,Brad Watson,The Heaven of Mercury
+2002,poetry,nba,winner,Ruth Stone,In the Next Galaxy
+2002,poetry,nba,finalist,Harryette Mullen,Sleeping with the Dictionary
+2002,poetry,nba,finalist,Sharon Olds,The Unswept Room
+2002,poetry,nba,finalist,Alberto Rios,The Smallest Muscle in the Human Body
+2002,poetry,nba,finalist,Ellen Bryant Voigt,Shadow of Heaven
+2003,fiction,nba,winner,Shirley Hazzard,The Great Fire
+2003,fiction,nba,finalist,T.C Boyle,Drop City
+2003,fiction,nba,finalist,Edward P. Jones,The Known World
+2003,fiction,nba,finalist,Scott Spencer,A Ship Made of Paper
+2003,fiction,nba,finalist,Marianne Wiggins,Evidence of Things Unseen: A Novel
+2003,poetry,nba,winner,C.K. Williams,The Singing
+2003,poetry,nba,finalist,Carol Muske-Dukes,Sparrow: Poems
+2003,poetry,nba,finalist,Charles Simic,The Voice at 3:00 AM: Selected Late and New Poems
+2003,poetry,nba,finalist,Louis Simpson,The Owner of the House: New Collected Poems 1940-2001
+2003,poetry,nba,finalist,Kevin Young,Jelly Roll: A Blues
+2004,fiction,nba,winner,Lily Tuck,The News from Paraguay
+2004,fiction,nba,finalist,Sarah Shun-lien Bynum,Madeleine is Sleeping
+2004,fiction,nba,finalist,Christine Schutt,Florida
+2004,fiction,nba,finalist,Joan Silber,Ideas of Heaven: A Ring of Stories
+2004,fiction,nba,finalist,Kate Walbert,Our Kind
+2004,poetry,nba,winner,Jean Valentine,"Door in the Mountain: New and Collected Poems, 1965-2003"
+2004,poetry,nba,finalist,William Heyen,Shoah Train
+2004,poetry,nba,finalist,Donald Justice,Collected Poems
+2004,poetry,nba,finalist,Carl Phillips,The Rest of Love
+2004,poetry,nba,finalist,Cole Swensen,Ghost
+2005,fiction,nba,winner,William T. Vollmann,Europe Central
+2005,fiction,nba,finalist,E.L. Doctorow,The March
+2005,fiction,nba,finalist,Mary Gaitskill,Veronica
+2005,fiction,nba,finalist,Christopher Sorrentino,Trance
+2005,fiction,nba,finalist,Renè Steinke,Holy Skirts
+2005,poetry,nba,winner,W.S. Merwin,Migration: New and Selected Poems
+2005,poetry,nba,finalist,John Ashbery,Where Shall I Wander
+2005,poetry,nba,finalist,Frank Bidart,Star Dust: Poems
+2005,poetry,nba,finalist,Brendan Galvin,"Habitat: New and Selected Poems, 1965-2005"
+2005,poetry,nba,finalist,Vern Rutsala,The Moment’s Equation
+2006,fiction,nba,winner,Richard Powers,The Echo Maker
+2006,fiction,nba,finalist,Mark Z. Danielewski,Only Revolutions
+2006,fiction,nba,finalist,Ken Kalfus,A Disorder Peculiar to the Country
+2006,fiction,nba,finalist,Dana Spiotta,Eat the Document
+2006,fiction,nba,finalist,Jess Walter,The Zero
+2006,poetry,nba,winner,Nathaniel Mackey,"Splay Anthem Louise Glück, Averno"
+2006,poetry,nba,finalist,H.L. Hix,Chromatic
+2006,poetry,nba,finalist,Ben Lerner,Angle of Yaw
+2006,poetry,nba,finalist,James McMichael,Capacity
+2007,fiction,nba,winner,Denis Johnson,Tree of Smoke
+2007,fiction,nba,finalist,Mischa Berlinski,Fieldwork
+2007,fiction,nba,finalist,Lydia Davis,Varieties of Disturbance
+2007,fiction,nba,finalist,Joshua Ferris,Then We Came to the End
+2007,fiction,nba,finalist,Denis Johnson,Tree of Smoke
+2007,fiction,nba,finalist,Jim Shepard,"Like You’d Understand, Anyway"
+2007,poetry,nba,winner,Robert Hass,Time and Materials
+2007,poetry,nba,finalist,Linda Gregerson,Magnetic North
+2007,poetry,nba,finalist,David Kirby,The House on Boulevard St.
+2007,poetry,nba,finalist,Stanley Plumly,Old Heart
+2007,poetry,nba,finalist,Ellen Bryant Voigt,Messenger: New and Selected Poems 1976-2006
+2008,fiction,nba,winner,Peter Matthiessen,Shadow Country
+2008,fiction,nba,finalist,Aleksandar Hemon,The Lazarus Project
+2008,fiction,nba,finalist,Rachel Kushner,Telex from Cuba
+2008,fiction,nba,finalist,Marilynne Robinson,Home
+2008,fiction,nba,finalist,Salvatore Scibona,The End
+2008,poetry,nba,winner,Mark Doty,Fire to Fire: New and Collected Poems
+2008,poetry,nba,finalist,Frank Bidart,Watching the Spring Festival
+2008,poetry,nba,finalist,Reginald Gibbons,Creatures of a Day
+2008,poetry,nba,finalist,Richard Howard,Without Saying
+2008,poetry,nba,finalist,Patricia Smith,Blood Dazzler
+2009,fiction,nba,winner,Colum McCann,Let the Great World Spin
+2009,fiction,nba,finalist,Bonnie Jo Campbell,American Salvage
+2009,fiction,nba,finalist,Daniyal Mueenuddin,"In Other Rooms, Other Wonders"
+2009,fiction,nba,finalist,Jayne Anne Phillips,Lark and Termite
+2009,fiction,nba,finalist,Marcel Theroux,Far North
+2009,poetry,nba,winner,Keith Waldrop,Transcendental Studies: A Trilogy
+2009,poetry,nba,finalist,Rae Armantrout,Versed
+2009,poetry,nba,finalist,Ann Lauterbach,Or to Begin Again
+2009,poetry,nba,finalist,Carl Phillips,Speak Low
+2009,poetry,nba,finalist,Lyrae Van Clief-Stefanon,Open Interval
+2010,fiction,nba,winner,Jaimy Gordon,Lord of Misrule
+2010,fiction,nba,finalist,Peter Carey,Parrot and Olivier in America
+2010,fiction,nba,finalist,Nicole Krauss,Great House
+2010,fiction,nba,finalist,Lionel Shriver,So Much for That
+2010,fiction,nba,finalist,Karen Tei Yamashita,I Hotel
+2010,poetry,nba,winner,Terrance Hayes,Lighthead
+2010,poetry,nba,finalist,Kathleen Graber,The Eternal City
+2010,poetry,nba,finalist,James Richardson,By the Numbers
+2010,poetry,nba,finalist,C.D. Wright,One with Others
+2010,poetry,nba,finalist,Monica Youn,Ignatz
