@@ -20,3 +20,36 @@ td {
 .nba {
     background-color: #fdc086;
 }
+
+.section {
+    display: flex;
+    flex-direction: column;
+}
+
+.section > div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h1, h2 {
+    margin: 1em auto;
+    text-align: center;
+}
+
+p {
+    width: 40%;
+    margin: 0.5em auto;
+}
+
+.spacer {
+    width: 20%;
+}
+
+.caption p {
+    width: 25em;
+}
+
+img {
+    margin: 0.5em;

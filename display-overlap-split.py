@@ -11,7 +11,7 @@ def overlap_to_html(category):
 
     output = '<link rel="stylesheet" href="style.css"><table>'
 
-    for row in rows[1:]:
+    for row in rows:
         output += '<tr><td>{}</td>'.format(row['year'])
 
         count = int(row['# finalist for pulitzer only'])
