@@ -1,0 +1,172 @@
+year,category,prize,outcome,author,title,gender
+2006,fiction,pulitzer,finalist,Alice McDermott,After This,F
+2006,fiction,pulitzer,finalist,Richard Powers,The Echo Maker,M
+1984,fiction,pulitzer,finalist,Diana O'Hehir,I Wish This War Were Over,F
+1984,fiction,pulitzer,finalist,Douglas Unger,Leaving the Land,M
+1985,fiction,pulitzer,finalist,Russell Banks,Continental Drift,M
+1985,fiction,pulitzer,finalist,Anne Tyler,The Accidental Tourist,F
+1986,fiction,pulitzer,finalist,Donald Barthelme,Paradise,M
+1986,fiction,pulitzer,finalist,Norman Rush,Whites,M
+1987,fiction,pulitzer,finalist,Diane Johnson,Persian Nights,F
+1987,fiction,pulitzer,finalist,Alice McDermott,That Night,F
+1988,fiction,pulitzer,finalist,Raymond Carver,Where I'm Calling From,M
+1989,fiction,pulitzer,finalist,E.L. Doctorow,Billy Bathgate,M
+1990,fiction,pulitzer,finalist,Linda Hogan,Mean Spirit,F
+1990,fiction,pulitzer,finalist,Tim O'Brien,The Things They Carried,M
+1991,fiction,pulitzer,finalist,Don DeLillo,Mao II,M
+1991,fiction,pulitzer,finalist,David Gates,Jernigan,M
+1991,fiction,pulitzer,finalist,Robert M. Pirsig,Lila: An Inquiry into Morals,M
+1992,fiction,pulitzer,finalist,Alice McDermott,At Weddings and Wakes,F
+1992,fiction,pulitzer,finalist,Joyce Carol Oates,Black Water,F
+1993,fiction,pulitzer,finalist,Reynolds Price,The Collected Stories,M
+1993,fiction,pulitzer,finalist,Philip Roth,Operation Shylock: A Confession,M
+1994,fiction,pulitzer,finalist,Joyce Carol Oates,What I Lived For,F
+1994,fiction,pulitzer,finalist,Grace Paley,The Collected Stories,F
+1995,fiction,pulitzer,finalist,Oscar Hijuelos,Mr. Ives' Christmas,M
+1995,fiction,pulitzer,finalist,Philip Roth,Sabbath's Theater,M
+1996,fiction,pulitzer,finalist,Ursula K. LeGuin,Unlocking the Air and Other Stories,F
+1996,fiction,pulitzer,finalist,Joanna Scott,The Manikin,F
+1997,fiction,pulitzer,finalist,Don DeLillo,Underworld,M
+1997,fiction,pulitzer,finalist,Robert Stone,Bear and His Daughter: Stories,M
+1998,fiction,pulitzer,finalist,Russell Banks,Cloudsplitter,M
+1998,fiction,pulitzer,finalist,Barbara Kingsolver,The Poisonwood Bible,F
+1999,fiction,pulitzer,finalist,Annie Proulx,Close Range: Wyoming Stories,F
+1999,fiction,pulitzer,finalist,Ha Jin,Waiting,M
+2000,fiction,pulitzer,finalist,Joyce Carol Oates,Blonde,F
+2000,fiction,pulitzer,finalist,Joy Williams,The Quick and the Dead,F
+2001,fiction,pulitzer,finalist,Jonathan Franzen,The Corrections,M
+2001,fiction,pulitzer,finalist,Colson Whitehead,John Henry Days,M
+2002,fiction,pulitzer,finalist,Andrea Barrett,Servants of the Map: Stories,F
+2002,fiction,pulitzer,finalist,Adam Haslett,You Are Not a Stranger Here,M
+2003,fiction,pulitzer,finalist,Susan Choi,American Woman,F
+2003,fiction,pulitzer,finalist,Marianne Wiggins,Evidence of Things Unseen: A Novel,F
+2004,fiction,pulitzer,finalist,Ha Jin,War Trash,M
+2004,fiction,pulitzer,finalist,Ward Just,An Unfinished Season,M
+2005,fiction,pulitzer,finalist,E.L. Doctorow,The March,M
+2005,fiction,pulitzer,finalist,Lee Martin,The Bright Forever,M
+2007,fiction,pulitzer,finalist,Denis Johnson,Tree of Smoke,M
+2007,fiction,pulitzer,finalist,Lore Segal,Shakespeare's Kitchen,F
+2008,fiction,pulitzer,finalist,Louise Erdrich,The Plague of Doves,F
+2008,fiction,pulitzer,finalist,Christine Schutt,All Souls,F
+2009,fiction,pulitzer,finalist,Lydia Millet,Love in Infant Monkeys,F
+2009,fiction,pulitzer,finalist,Daniyal Mueenuddin,"In Other Rooms, Other Wonders",M
+2010,fiction,pulitzer,finalist,Jonathan Dee,The Privileges,M
+2010,fiction,pulitzer,finalist,Chang-rae Lee,The Surrendered,M
+2011,fiction,pulitzer,finalist,Denis Johnson,Train Dreams,M
+2011,fiction,pulitzer,finalist,Karen Russell,Swamplandia!,F
+2011,fiction,pulitzer,finalist,David Foster Wallace,The Pale King,M
+2012,fiction,pulitzer,finalist,Nathan Englander,What We Talk About When We Talk About Anne Frank,M
+2012,fiction,pulitzer,finalist,Eowyn Ivey,The Snow Child,F
+2013,fiction,pulitzer,finalist,Philipp Meyer,The Son,M
+2013,fiction,pulitzer,finalist,Bob Shacochis,The Woman Who Lost Her Soul,M
+2014,fiction,pulitzer,finalist,Richard Ford,Let Me Be Frank With You,M
+2014,fiction,pulitzer,finalist,Laila Lalami,The Moor's Account,F
+2014,fiction,pulitzer,finalist,Joyce Carol Oates,"Lovely, Dark, Deep",F
+2015,fiction,pulitzer,finalist,Kelly Link,Get in Trouble: Stories,F
+2015,fiction,pulitzer,finalist,Margaret Verble,Maud's Line,F
+2015,fiction,pulitzer,winner,Viet Thanh Nguyen,The Sympathizer,M
+2014,fiction,pulitzer,winner,Anthony Doerr,All the Light We Cannot See,M
+2013,fiction,pulitzer,winner,Donna Tartt,The Goldfinch,F
+2012,fiction,pulitzer,winner,Adam Johnson,The Orphan Master's Son,M
+2010,fiction,pulitzer,winner,Jennifer Egan,A Visit from the Goon Squad,F
+2009,fiction,pulitzer,winner,Paul Harding,Tinkers,M
+2008,fiction,pulitzer,winner,Elizabeth Strout,Olive Kitteridge,F
+2007,fiction,pulitzer,winner,Junot Diaz,The Brief Wondrous Life of Oscar Wao,M
+2006,fiction,pulitzer,winner,Cormac McCarthy,The Road,M
+2005,fiction,pulitzer,winner,Geraldine Brooks,March,F
+2004,fiction,pulitzer,winner,Marilynne Robinson,Gilead,F
+2003,fiction,pulitzer,winner,Edward P. Jones,The Known World,M
+2002,fiction,pulitzer,winner,Jeffrey Eugenides,Middlesex,M
+2001,fiction,pulitzer,winner,Richard Russo,Empire Falls,M
+2000,fiction,pulitzer,winner,Michael Chabon,The Amazing Adventures of Kavalier & Clay,M
+1999,fiction,pulitzer,winner,Jhumpa Lahiri,Interpreter of Maladies,F
+1998,fiction,pulitzer,winner,Michael Cunningham,The Hours,M
+1997,fiction,pulitzer,winner,Philip Roth,American Pastoral,M
+1996,fiction,pulitzer,winner,Steven Millhauser,Martin Dressler: The Tale of an American Dreamer,M
+1995,fiction,pulitzer,winner,Richard Ford,Independence Day,M
+1994,fiction,pulitzer,winner,Carol Shields,The Stone Diaries,F
+1993,fiction,pulitzer,winner,E. Annie Proulx,The Shipping News,F
+1992,fiction,pulitzer,winner,Robert Olen Butler,A Good Scent from a Strange Mountain,M
+1991,fiction,pulitzer,winner,Jane Smiley,A Thousand Acres,F
+1990,fiction,pulitzer,winner,John Updike,Rabbit At Rest,M
+1989,fiction,pulitzer,winner,Oscar Hijuelos,The Mambo Kings Play Songs of Love,M
+1988,fiction,pulitzer,winner,Anne Tyler,Breathing Lessons,F
+1987,fiction,pulitzer,winner,Toni Morrison,Beloved,F
+1986,fiction,pulitzer,winner,Peter Taylor,A Summons to Memphis,M
+1985,fiction,pulitzer,winner,Larry McMurtry,Lonesome Dove,M
+1984,fiction,pulitzer,winner,Alison Lurie,Foreign Affairs,F
+1991,poetry,pulitzer,finalist,Robert Creeley,Selected Poems,M
+1991,poetry,pulitzer,finalist,Adrienne Rich,An Atlas of the Difficult World: Poems 1988-1991,F
+1992,poetry,pulitzer,finalist,John Ashbery,Hotel Lautreamont,M
+1992,poetry,pulitzer,finalist,James Merrill,Selected Poems 1946-1985,M
+1993,poetry,pulitzer,finalist,Brenda Hillman,Bright Existence,F
+1993,poetry,pulitzer,finalist,Allen Mandelbaum,The Metamorphoses of Ovid,M
+1994,poetry,pulitzer,finalist,Allen Ginsberg,Cosmopolitan Greetings: Poems 1986-1992,M
+1994,poetry,pulitzer,finalist,Kenneth Koch,On The Great Atlantic Rainway: Selected Poems 1950-1988 and One Train,M
+1995,poetry,pulitzer,finalist,Donald Justice,New and Selected Poems,M
+1995,poetry,pulitzer,finalist,Charles Wright,Chickamauga,M
+1996,poetry,pulitzer,finalist,Robert Pinsky,The Figured Wheel,M
+1996,poetry,pulitzer,finalist,Laurie Sheck,The Willow Grove,F
+1997,poetry,pulitzer,finalist,Frank Bidart,Desire,M
+1997,poetry,pulitzer,finalist,C.K. Williams,The Vigil,M
+1998,poetry,pulitzer,finalist,Alice Notley,Mysteries of Small Houses,F
+1998,poetry,pulitzer,finalist,Frederick Seidel,Going Fast,M
+1999,poetry,pulitzer,finalist,Rodney Jones,Elegy for the Southern Drawl,M
+1999,poetry,pulitzer,finalist,Adrienne Rich,Midnight Salvage: Poems 1995-1998,F
+2000,poetry,pulitzer,finalist,Sydney Lea,Pursuit of a Wound,F
+2000,poetry,pulitzer,finalist,Bruce Smith,The Other Lover,M
+2001,poetry,pulitzer,finalist,Louise Gluck,The Seven Ages,F
+2001,poetry,pulitzer,finalist,Franz Wright,The Beforelife,M
+2002,poetry,pulitzer,finalist,Frank Bidart,Music Like Dirt,M
+2002,poetry,pulitzer,finalist,J.D. McClatchy,Hazmat,M
+2003,poetry,pulitzer,finalist,Henri Cole,Middle Earth,M
+2003,poetry,pulitzer,finalist,Heather McHugh,Eyeshot,F
+2004,poetry,pulitzer,finalist,Brigit Pegeen Kelly,The Orchard,F
+2004,poetry,pulitzer,finalist,William Matthews,Search Party: Collected Poems,M
+2005,poetry,pulitzer,finalist,Elizabeth Alexander,American Sublime,F
+2005,poetry,pulitzer,finalist,Dean Young,Elegy on Toy Piano,M
+2006,poetry,pulitzer,finalist,Martin Espada,The Republic of Poetry,M
+2006,poetry,pulitzer,finalist,David Wojahn,Interrogation Palace: New & Selected Poems 1982-2004,M
+2007,poetry,pulitzer,finalist,Ellen Bryant Voigt,"Messenger: New and Selected Poems, 1976-2006",F
+2008,poetry,pulitzer,finalist,Frank Bidart,Watching the Spring Festival,M
+2008,poetry,pulitzer,finalist,Ruth Stone,What Love Comes To: New & Selected Poems,F
+2009,poetry,pulitzer,finalist,Angie Estes,Tryst,F
+2009,poetry,pulitzer,finalist,Lucia Perillo,Inseminating the Elephant,F
+2010,poetry,pulitzer,finalist,Maurice Manning,The Common Man,M
+2010,poetry,pulitzer,finalist,Jean Valentine,Break the Glass,F
+2011,poetry,pulitzer,finalist,Forrest Gander,Core Samples from the World,M
+2011,poetry,pulitzer,finalist,Ron Padgett,How Long,M
+2012,poetry,pulitzer,finalist,the late Jack Gilbert,Collected Poems,M
+2012,poetry,pulitzer,finalist,Bruce Weigl,The Abundance of Nothing,M
+2013,poetry,pulitzer,finalist,Morri Creech,The Sleep of Reason,M
+2013,poetry,pulitzer,finalist,Adrian Matejka,The Big Smoke,M
+2014,poetry,pulitzer,finalist,Alan Shapiro,Reel to Reel,M
+2014,poetry,pulitzer,finalist,Arthur Sze,Compass Rose,M
+2015,poetry,pulitzer,finalist,Diane Seuss,Four-Legged Girl,F
+2015,poetry,pulitzer,finalist,Elizabeth Willis,Alive: New and Selected Poems,F
+2015,poetry,pulitzer,winner,Peter Balakian,Ozone Journal,M
+2014,poetry,pulitzer,winner,Gregory Pardlo,Digest,M
+2013,poetry,pulitzer,winner,Vijay Seshadri,3 Sections,M
+2012,poetry,pulitzer,winner,Sharon Olds,Stag's Leap,F
+2011,poetry,pulitzer,winner,Tracy K. Smith,Life on Mars,F
+2010,poetry,pulitzer,winner,Kay Ryan,The Best of It: New and Selected Poems,F
+2009,poetry,pulitzer,winner,Rae Armantrout,Versed,F
+2008,poetry,pulitzer,winner,W.S. Merwin,The Shadow of Sirius,M
+2007,poetry,pulitzer,winner,Robert Hass,Time and Materials,M
+2007,poetry,pulitzer,winner,Philip Schultz,Failure,M
+2006,poetry,pulitzer,winner,Natasha Trethewey,Native Guard,F
+2005,poetry,pulitzer,winner,Claudia Emerson,Late Wife,F
+2004,poetry,pulitzer,winner,Ted Kooser,Delights & Shadows,M
+2003,poetry,pulitzer,winner,Franz Wright,Walking to Martha's Vineyard,M
+2002,poetry,pulitzer,winner,Paul Muldoon,Moy Sand and Gravel,M
+2001,poetry,pulitzer,winner,Carl Dennis,Practical Gods,M
+2000,poetry,pulitzer,winner,Stephen Dunn,Different Hours,M
+1999,poetry,pulitzer,winner,C.K. Williams,Repair,M
+1998,poetry,pulitzer,winner,Mark Strand,Blizzard of One,M
+1997,poetry,pulitzer,winner,Charles Wright,Black Zodiac,M
+1996,poetry,pulitzer,winner,Lisel Mueller,Alive Together: New and Selected Poems,F
+1995,poetry,pulitzer,winner,Jorie Graham,The Dream of the Unified Field,F
+1994,poetry,pulitzer,winner,Philip Levine,The Simple Truth,M
+1993,poetry,pulitzer,winner,Yusef Komunyakaa,Neon Vernacular: New and Selected Poems,M
+1992,poetry,pulitzer,winner,Louise Glück,The Wild Iris,F
+1991,poetry,pulitzer,winner,James Tate,Selected Poems,M
